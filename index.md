@@ -20,7 +20,7 @@ numerical ranges and shadows, tensor networks
 My comic book on quantum information processing (in Polish)
 -----------------------------------------------------------
 
-Written together with Katrzyna Kara (illustrations) and [Michał
+Written together with Katarzyna Kara (illustrations) and [Michał
 Cholewa](https://pl.wikipedia.org/wiki/Micha%C5%82_Cholewa) (scenario)\
 \
 [![Rewolucja Stanu comic book cover (in
