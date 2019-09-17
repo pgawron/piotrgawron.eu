@@ -251,8 +251,12 @@ Published papers
 
 ### Quantum computation
 
+-   Konrad Jałowiecki, Andrzej Więckowski, Piotr Gawron, 
+    and Bartłomiej Gardas. 2019. ‘Parallel in time dynamics 
+    with quantum annealers‘. arXiv:1909.04929.
+    <https://arxiv.org/abs/1909.04929>
 -   Piotr Gawron, Dariusz Kurzyk, and Zbigniew Puchała. 2013. ‘A Model
-    for Quantum Queue’. *International Journal of Quantum Information*
+    for Quantum Queue‘. *International Journal of Quantum Information*
     11 (02): 1350023. <https://doi.org/10.1142/S0219749913500238>.
 -   Piotr Gawron, Jerzy Klamka, and Ryszard Winiarczyk. 2012. ‘Noise
     Effects in the Quantum Search Algorithm from the Viewpoint of
