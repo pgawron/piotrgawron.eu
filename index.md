@@ -12,10 +12,15 @@ Application of quantum computation and in particular quantum machine
 learning for efficient and accurate satellite images understanding for
 wide scale assessment of **climate change impact**.
 
-### Past but still on-going:
+-   [Quantum computation](https://quantiki.org)
+-   Machine learning
 
-Quantum computation, quantum games, quantum programming languages,
-numerical ranges and shadows, tensor networks
+### Past:
+
+- Quantum games
+- quantum programming languages
+- [Numerical ranges and shadows](https://numericalshadow.org)
+- tensor networks
 
 My comic book on quantum information processing (in Polish)
 -----------------------------------------------------------
@@ -30,6 +35,19 @@ Polish).](media/cover.jpg)](https://depot.ceon.pl/bitstream/handle/123456789/168
     Polish).](https://depot.ceon.pl/bitstream/handle/123456789/16807/rewolucjastanu_z_okladka.pdf)
 -   [CEON repository entry (in
     Polish).](https://depot.ceon.pl/handle/123456789/16807)
+
+Quantiki a portal for quantum information community
+---------------------------------------------------
+
+Established and maintained jointly with [Jarosław Miszczak](https://www.iitis.pl/~miszczak/),
+and [Daniel Burgarth](https://sites.google.com/view/danielburgarth/daniel-burgarth)
+
+[www.quantiki.org](https://www.quantiki.org/)
+
+Contact
+-------
+
+e-mail: p.w.gawron%gmail%com
 
 Academic achievements
 ---------------------
@@ -64,7 +82,7 @@ Institute of Theoretical and Applied Informatics,\
 Polish Academy of Sciences\
 ul. Bałtycka 5, 44-100 Gliwice, Poland
 
-- from October 01 2018 - institute professor (pol. *profesor instytutu*)
+- October 01 2018 - October 31 2019 institute professor (pol. *profesor instytutu*)
 - from November 01 2014 - associate professor (pol. *profesor nadzwyczajny*)
 - from January 01 2009 - adjunct (pol. *adiunkt*)
 - from October 01 2003 - research assistant (pol. *assystent*)
@@ -73,33 +91,27 @@ ul. Bałtycka 5, 44-100 Gliwice, Poland
 ### My profiles on various web-services
 
 1.  [arXiv](https://arxiv.org/a/gawron_p_1.html)
-2.  [DBLP Computer Science
-    Bibliography](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gawron:Piotr.html)
+2.  [DBLP Computer Science Bibliography](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gawron:Piotr.html)
 3.  [ORCID](http://orcid.org/0000-0001-7476-9160)
-4.  [Google
-    Scholar](http://scholar.google.com/citations?hl=en&user=YiH0ZRMAAAAJ)
+4.  [Google Scholar](http://scholar.google.com/citations?hl=en&user=YiH0ZRMAAAAJ)
 5.  [ResearchID](http://www.researcherid.com/rid/F-2255-2011)
 6.  [Scopus](http://www.scopus.com/authid/detail.url?authorId=10039319900)
 7.  [Github](https://github.com/pgawron)
 8.  [scirate](https://scirate.com/gawron)
-9.  [OPI - Nauka
-    Polska](http://nauka-polska.pl/#/profile/scientist?id=55421)
-10. [Polish Scientific
-    Library](https://pbn.nauka.gov.pl/sedno-webapp/persons/1891265/Piotr_Gawron)
+9.  [OPI - Nauka Polska](http://nauka-polska.pl/#/profile/scientist?id=55421)
+10. [Polish Scientific Library](https://pbn.nauka.gov.pl/sedno-webapp/persons/1891265/Piotr_Gawron)
 11. [infona](https://www.infona.pl/userprofile/urn:namespace:user:a08186204b8f4468014c13a9ac5703b8)
-12. [Support System for Selection of
-    Reviewers](https://sssr.opi.org.pl/sssr-web/site/people-details?personId=3a79a5283b3a6f77)
+12. [Support System for Selection of Reviewers](https://sssr.opi.org.pl/sssr-web/site/people-details?personId=3a79a5283b3a6f77)
 13. [loop](http://loop.frontiersin.org/people/82489/overview)
 
 ### PhD theses supervised:
 
-1.  [Łukasz
-    Pawela](http://iitis.pl/en/person/lpawela)
-    "Open system in quantum informatics" (PhD received in 2017)
-2.  [Michał
-    Romaszewski](http://iitis.pl/en/person/mromaszewski)
-    "New methods for hyperspectral image classification" (PhD received
-    in 2019)
+1.  [Łukasz Pawela](http://iitis.pl/en/person/lpawela) "Open system in quantum
+    informatics" (PhD received in 2017 from Institute of Theoretical and Applied
+    Informatics, Polish Academy of Sciences)
+2.  [Michał Romaszewski](http://iitis.pl/en/person/mromaszewski) "New methods
+    for hyperspectral image classification" (PhD received in 2019 from Institute
+    of Theoretical and Applied Informatics, Polish Academy of Sciences)
 
 ### Erdös Number:
 
@@ -111,8 +123,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 -   [Benoît Collins](https://www.math.kyoto-u.ac.jp/~collins/),
 -   [Krzysztof Domino](https://www.iitis.pl/en/person/kdomino),
 -   [Charles F. Dunkl](http://people.virginia.edu/~cfd5z/),
--   [Bartłomiej
-    Gardas](https://sites.google.com/site/bartekgardas/home),
+-   [Bartłomiej Gardas](https://sites.google.com/site/bartekgardas/home),
 -   [Przemysław Głomb](https://iitis.pl/en/person/pglomb),
 -   John A. Holbrook,
 -   [Jerzy Klamka](https://iitis.pl/en/person/jklamka),
@@ -123,8 +134,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 -   [Łukasz Pawela](http://iitis.pl/en/person/lpawela),
 -   [Zbigniew Puchała](https://www.iitis.pl/en/person/zpuchala),
 -   [Michał Romaszewski](https://www.iitis.pl/en/person/mromaszewski),
--   [Łukasz
-    Skowronek](https://arxiv.org/search/?searchtype=author&query=Skowronek%2C+%C5%81),
+-   [Łukasz Skowronek](https://arxiv.org/search/?searchtype=author&query=Skowronek%2C+%C5%81),
 -   [Jan Sładkowski](http://en.wikipedia.org/wiki/Jan_S%C5%82adkowski),
 -   [Ryszard Winiarczyk](https://iitis.pl/en/person/rwiniarczyk),
 -   [Karol Życzkowski](http://chaos.if.uj.edu.pl/~karol/)
@@ -284,8 +294,8 @@ Published papers
     Computation of Higher-Order Cumulant Tensors‘. *SIAM Journal on
     Scientific Computing* 40 (3): A1590–1610.
     <https://doi.org/10.1137/17M1149365>.
--   Gawron Piotr, Pawela Łukasz, Zbigniew Puchała, Szklarski Jacek,
-    Życzkowski Karol Wybory samorządowe 2014. 2015. ‘W poszukiwaniu
+-   Piotr Gawron, Łukasz Pawela, Puchała Zbigniew, Jacek Szklarski,
+    Karol Życzkowski Wybory samorządowe 2014. 2015. ‘W poszukiwaniu
     anomalii statystycznych‘. *Studia Wyborcze* 19, 53-77
     <http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.desklight-13fc68c9-1d83-4413-896f-6cb6ba5ecc85>.
 -   Ryszard Winiarczyk, Piotr Gawron, Jarosław Adam Miszczak, Łukasz
