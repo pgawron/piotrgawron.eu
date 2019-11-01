@@ -18,9 +18,9 @@ wide scale assessment of **climate change impact**.
 ### Past:
 
 - Quantum games
-- quantum programming languages
+- Quantum programming languages
 - [Numerical ranges and shadows](https://numericalshadow.org)
-- tensor networks
+- Tensor networks
 
 My comic book on quantum information processing (in Polish)
 -----------------------------------------------------------
