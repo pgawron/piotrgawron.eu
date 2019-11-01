@@ -85,8 +85,8 @@ ul. Bałtycka 5, 44-100 Gliwice, Poland
 - October 01 2018 - October 31 2019 institute professor (pol. *profesor instytutu*)
 - from November 01 2014 - associate professor (pol. *profesor nadzwyczajny*)
 - from January 01 2009 - adjunct (pol. *adiunkt*)
-- from October 01 2003 - research assistant (pol. *assystent*)
-- from October 15 2001 - technician programmer (pol. *techink programista*)
+- from October 01 2003 - research assistant (pol. *asystent*)
+- from October 15 2001 - technician programmer (pol. *technik programista*)
 
 ### My profiles on various web-services
 
