@@ -26,8 +26,8 @@ My comic book on quantum information processing (in Polish)
 -----------------------------------------------------------
 
 Written together with Katarzyna Kara (illustrations) and [Michał
-Cholewa](https://pl.wikipedia.org/wiki/Micha%C5%82_Cholewa) (scenario)\
-\
+Cholewa](https://pl.wikipedia.org/wiki/Micha%C5%82_Cholewa) (scenario)
+
 [![Rewolucja Stanu comic book cover (in
 Polish).](media/cover.jpg)](https://depot.ceon.pl/bitstream/handle/123456789/16807/rewolucjastanu_z_okladka.pdf)
 
@@ -55,23 +55,23 @@ Academic achievements
 ### Received professional titles and academic degrees
 
 -   Doktor habilitowany of technical sciences (DSc equivalent) in the
-    field of informatics,\
+    field of informatics,
     granted on October 28th 2014, by the Council of Faculty of Automatic
     Control, Electronics and Computer Science, Silesian University of
-    Technology,\
+    Technology,
     on the basis of habilitation dissertation "Influence of the
     environment on quantum information processes".
 -   Doktor of technical sciences (PhD equivalent) in the field of
-    informatics,\
+    informatics,
     granted on December 23th 2008, by the Scientific Council of the
     Institute of Theoretical and Applied Informatics, Polish Academy of
-    Sciences,\
+    Sciences,
     on the basis of a doctoral dissertation "High level programming in
     quantum computer science".
 -   Magister inżynier (MSc equivalent) of informatics, granted on
-    September 24th 2003,\
+    September 24th 2003,
     on the basis of a master thesis "Symulacja komputerów kwantowych"
-    (eng. "Simulation of quantum computers"),\
+    (eng. "Simulation of quantum computers"),
     by the Silesian University of Technology, Faculty Of Automatic
     Control, Electronics and Computer Science, majoring in informatics,
     speciality: System Software.
@@ -79,14 +79,14 @@ Academic achievements
 ### Information on employment in research institutions
 
 
--   AstroCeNT---Particle Astrophysics Science and Technology Centre International Research Agenda,\
-    Nicolaus Copernicus Astronomical Center Polish Academy of Sciences,\
+-   AstroCeNT---Particle Astrophysics Science and Technology Centre International Research Agenda,
+    Nicolaus Copernicus Astronomical Center Polish Academy of Sciences,
     ul. Bartycka 18, 00-716 Warszawa, Poland
 
     - from November 01 2019 institute professor (pol. *profesor instytutu*), Scientific Computing and Information Technology Group Leader
 
--   Institute of Theoretical and Applied Informatics,\
-    Polish Academy of Sciences\
+-   Institute of Theoretical and Applied Informatics,
+    Polish Academy of Sciences
     ul. Bałtycka 5, 44-100 Gliwice, Poland
 
     - October 01 2018 - October 31 2019 institute professor (pol. *profesor instytutu*)
