@@ -79,14 +79,15 @@ Academic achievements
 ### Information on employment in research institutions
 
 
--   AstroCeNT---Particle Astrophysics Science and Technology Centre International Research Agenda,
-    Nicolaus Copernicus Astronomical Center Polish Academy of Sciences,
+-   [AstroCeNT](https://astrocent.camk.edu.pl)---Particle Astrophysics Science
+    and Technology Centre International Research Agenda,  
+    [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl) Polish Academy of Sciences,  
     ul. Bartycka 18, 00-716 Warszawa, Poland
 
     - from November 01 2019 institute professor (pol. *profesor instytutu*), Scientific Computing and Information Technology Group Leader
 
--   Institute of Theoretical and Applied Informatics,
-    Polish Academy of Sciences
+-   [Institute of Theoretical and Applied Informatics](https://www.iitis.pl),  
+    Polish Academy of Sciences  
     ul. Bałtycka 5, 44-100 Gliwice, Poland
 
     - October 01 2018 - October 31 2019 institute professor (pol. *profesor instytutu*)
