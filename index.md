@@ -252,13 +252,13 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 
 ### Quantum computation
 
-- Gawron, Piotr, Stanislaw Lewinski. ‘Multi-spectral image classification with
+- Gawron, Piotr, Stanislaw Lewinski. 2020. ‘Multi-spectral image classification with
   quantum neural network’ In IGARSS 2020 - 2020 IEEE International Geoscience
-  and Remote Sensing Symposium, (accepted for publication), 2020.
+  and Remote Sensing Symposium, (accepted for publication).
 - Konrad Jałowiecki, Andrzej Więckowski, Piotr Gawron,  
-  and Bartłomiej Gardas. 2019. ‘Parallel in time dynamics
-  with quantum annealers‘. arXiv:1909.04929.
-  <https://arxiv.org/abs/1909.04929>
+  and Bartłomiej Gardas. 2020. ‘Parallel in time dynamics
+  with quantum annealers‘.  Scientific Reports (accepted for publication), 
+  arXiv:1909.04929. <https://arxiv.org/abs/1909.04929>
 - Piotr Gawron, Dariusz Kurzyk, and Zbigniew Puchała. 2013. ‘A Model
   for Quantum Queue‘. *International Journal of Quantum Information*
   11 (02): 1350023. <https://doi.org/10.1142/S0219749913500238>.
