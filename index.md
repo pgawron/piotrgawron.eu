@@ -42,7 +42,19 @@ and [Daniel Burgarth](https://sites.google.com/view/danielburgarth/daniel-burgar
 
 ## Contact
 
-e-mail: p.w.gawron%gmail%com
+e-mail: p.w.gawron(%)gmail%com
+
+work: gawron(%)camk%edu%pl
+
+AstroCeNT
+
+Particle Astrophysics
+Science And Technology Centre
+International Research Agenda
+Contact
+
+ul. Rektorska 4,
+00-614, Warsaw, Poland
 
 ## Academic achievements
 
