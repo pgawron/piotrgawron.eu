@@ -99,12 +99,12 @@ e-mail: p.w.gawron%gmail%com
 
 ### PhD theses supervised
 
-1.[Łukasz Pawela](http://iitis.pl/en/person/lpawela) "Open system in quantum
-  informatics" (PhD received in 2017 from Institute of Theoretical and Applied
-  Informatics, Polish Academy of Sciences)
-2.[Michał Romaszewski](http://iitis.pl/en/person/mromaszewski) "New methods
-  for hyperspectral image classification" (PhD received in 2019 from Institute
-  of Theoretical and Applied Informatics, Polish Academy of Sciences)
+1. [Łukasz Pawela](http://iitis.pl/en/person/lpawela) "Open system in quantum
+   informatics" (PhD received in 2017 from Institute of Theoretical and Applied
+   Informatics, Polish Academy of Sciences)
+2. [Michał Romaszewski](http://iitis.pl/en/person/mromaszewski) "New methods
+   for hyperspectral image classification" (PhD received in 2019 from Institute
+   of Theoretical and Applied Informatics, Polish Academy of Sciences)
 
 ### Erdös Number
 
