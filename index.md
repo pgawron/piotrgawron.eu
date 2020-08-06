@@ -51,7 +51,6 @@ AstroCeNT
 Particle Astrophysics
 Science And Technology Centre
 International Research Agenda
-Contact
 
 ul. Rektorska 4,
 00-614, Warsaw, Poland
