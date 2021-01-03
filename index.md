@@ -131,7 +131,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 - [Przemysław Głomb](https://iitis.pl/en/person/pglomb),
 - John A. Holbrook,
 - Konrad Jałowiecki,
-- [Jerzy Klamka](https://iitis.pl/en/person/jklamka),
+- [Jerzy Klamka](https://orcid.org/0000-0003-1574-9826),
 - Dariusz Kurzyk,
 - Stanisław Lewiński,
 - [Alexander Litvak](http://www.math.ualberta.ca/~alexandr/),
