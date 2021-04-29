@@ -297,7 +297,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
   arbitrary–order cumulant tensor calculation in a sliding window of
   data streams‘. *International Journal of Applied Mathematics and
   Computer Science* 29 (1): 195.
-  <http://dx.doi.org/10.2478/amcs-2019-0015>.
+  <http://doi.org/10.2478/amcs-2019-0015>.
 - Krzysztof Domino, Piotr Gawron, and Łukasz Pawela. 2018. ‘Efficient
   Computation of Higher-Order Cumulant Tensors‘. *SIAM Journal on
   Scientific Computing* 40 (3): A1590–1610.
