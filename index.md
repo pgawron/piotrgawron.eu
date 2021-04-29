@@ -265,7 +265,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 
 - Piotr Gawron, Stanisław Lewiński. 2020. ‘Multi-spectral image classification with
   quantum neural network’ In IGARSS 2020 - 2020 IEEE International Geoscience
-  and Remote Sensing Symposium, (accepted for publication).
+  and Remote Sensing Symposium, 3513–16, 2020. https://doi.org/10.1109/IGARSS39084.2020.9323065.
 - Konrad Jałowiecki, Andrzej Więckowski, Piotr Gawron,  
   and Bartłomiej Gardas. 2020. ‘Parallel in time dynamics
   with quantum annealers‘.  Scientific Reports (accepted for publication), 
