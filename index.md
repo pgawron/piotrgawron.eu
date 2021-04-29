@@ -130,8 +130,10 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 - [Bartłomiej Gardas](https://sites.google.com/site/bartekgardas/home),
 - [Przemysław Głomb](https://iitis.pl/en/person/pglomb),
 - John A. Holbrook,
-- [Jerzy Klamka](https://iitis.pl/en/person/jklamka),
+- Konrad Jałowiecki,
+- [Jerzy Klamka](https://orcid.org/0000-0003-1574-9826),
 - Dariusz Kurzyk,
+- Stanisław Lewiński,
 - [Alexander Litvak](http://www.math.ualberta.ca/~alexandr/),
 - [Jarosław A. Miszczak](http://www.iitis.pl/~miszczak/),
 - Sebastian Opozda,
@@ -140,6 +142,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 - [Michał Romaszewski](https://www.iitis.pl/en/person/mromaszewski),
 - [Łukasz Skowronek](https://arxiv.org/search/?searchtype=author&query=Skowronek%2C+%C5%81),
 - [Jan Sładkowski](http://en.wikipedia.org/wiki/Jan_S%C5%82adkowski),
+- Andrzej Więckowski,
 - [Ryszard Winiarczyk](https://iitis.pl/en/person/rwiniarczyk),
 - [Karol Życzkowski](http://chaos.if.uj.edu.pl/~karol/)
 
@@ -268,8 +271,8 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
   and Remote Sensing Symposium, 3513–16, 2020. https://doi.org/10.1109/IGARSS39084.2020.9323065.
 - Konrad Jałowiecki, Andrzej Więckowski, Piotr Gawron,  
   and Bartłomiej Gardas. 2020. ‘Parallel in time dynamics
-  with quantum annealers‘.  Scientific Reports (accepted for publication), 
-  arXiv:1909.04929. <https://arxiv.org/abs/1909.04929>
+  with quantum annealers‘. *Scientific Reports Scientific Reports* 10(1): 1-7.
+  <https://doi.org/10.1038/s41598-020-70017-x>.
 - Piotr Gawron, Dariusz Kurzyk, and Zbigniew Puchała. 2013. ‘A Model
   for Quantum Queue‘. *International Journal of Quantum Information*
   11 (02): 1350023. <https://doi.org/10.1142/S0219749913500238>.
@@ -311,6 +314,6 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 
 <!--
 ## Conference proceedings
- - Piotr Gawron, and Wojciech Czarnecki‘Classification of tree species from
+ - Piotr Gawron, and Wojciech Czarnecki ‘Classification of tree species from
   limited dataset of bark images using convolutional neural networks’. 2019
   PP-RAI’2019 Conference Proceedings <> -->
