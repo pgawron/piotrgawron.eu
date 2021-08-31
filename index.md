@@ -35,12 +35,24 @@ Polish).](media/cover.jpg)](https://depot.ceon.pl/bitstream/handle/123456789/168
 - [CEON repository entry (in
   Polish).](https://depot.ceon.pl/handle/123456789/16807)
 
-### Quantiki a portal for quantum information community
+### Quantiki — a portal for quantum information community
 
 Established and maintained jointly with [Jarosław Miszczak](https://www.iitis.pl/~miszczak/),
 and [Daniel Burgarth](https://sites.google.com/view/danielburgarth/daniel-burgarth)
 
 [www.quantiki.org](https://www.quantiki.org/)
+
+
+### Webpage on numerical shadows
+
+Done in co-operation with [Karol Życzkowski](http://chaos.if.uj.edu.pl/~karol/),
+[Zbigniew Puchała](https://www.iitis.pl/en/person/zpuchala),
+[Jarosław Miszczak](https://www.iitis.pl/~miszczak/),
+[Łukasz Pawela](http://iitis.pl/en/person/lpawela),
+[Paulina Lewandowska](https://iitis.pl/en/node/2654),
+[Ryszard Kukulski](https://iitis.pl/en/node/2619).
+
+[numericalshadow.org]https://numericalshadow.org/
 
 ## Contact
 
