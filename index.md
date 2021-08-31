@@ -52,7 +52,7 @@ Done in co-operation with [Karol Życzkowski](http://chaos.if.uj.edu.pl/~karol/)
 [Paulina Lewandowska](https://iitis.pl/en/node/2654),
 [Ryszard Kukulski](https://iitis.pl/en/node/2619).
 
-[numericalshadow.org]https://numericalshadow.org/
+[numericalshadow.org](https://numericalshadow.org/)
 
 ## Contact
 
