@@ -20,7 +20,9 @@ wide scale assessment of **climate change impact**.
 - [Numerical ranges and shadows](https://numericalshadow.org)
 - Tensor networks
 
-## My comic book on quantum information processing (in Polish)
+## Projects
+
+### My comic book on quantum information processing (in Polish)
 
 Written together with Katarzyna Kara (illustrations) and [Michał
 Cholewa](https://pl.wikipedia.org/wiki/Micha%C5%82_Cholewa) (scenario)
@@ -33,7 +35,7 @@ Polish).](media/cover.jpg)](https://depot.ceon.pl/bitstream/handle/123456789/168
 - [CEON repository entry (in
   Polish).](https://depot.ceon.pl/handle/123456789/16807)
 
-## Quantiki a portal for quantum information community
+### Quantiki a portal for quantum information community
 
 Established and maintained jointly with [Jarosław Miszczak](https://www.iitis.pl/~miszczak/),
 and [Daniel Burgarth](https://sites.google.com/view/danielburgarth/daniel-burgarth)
