@@ -265,7 +265,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 
 - Piotr Gawron, Dariusz Kurzyk, and Łukasz Pawela. 2018.
   ‘QuantumInformation.Jl—A Julia Package for Numerical Computation in
-  Quantum Information Theory’. *PLOS ONE* 13 (12): e0209358.
+  Quantum Information Theory’. *PLoS ONE* 13 (12): e0209358.
   <https://doi.org/10.1371/journal.pone.0209358>. [In PLoS Open
   Quantum Computation and Simulation
   collection](https://collections.plos.org/open-quantum)
