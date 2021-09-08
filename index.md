@@ -287,6 +287,9 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
   and Bartłomiej Gardas. 2020. ‘Parallel in time dynamics
   with quantum annealers‘. *Scientific Reports Scientific Reports* 10(1): 1-7.
   <https://doi.org/10.1038/s41598-020-70017-x>.
+- Łukasz Pawela, Piotr Gawron, Jarosław Adam Miszczak, Przemysław Sadowski. 2015. 
+  ‘Generalized Open Quantum Walks on Apollonian Networks’. *PLoS ONE* 10(7): e0130967.
+  <https://doi.org/10.1371/journal.pone.0130967>.
 - Piotr Gawron, Dariusz Kurzyk, and Zbigniew Puchała. 2013. ‘A Model
   for Quantum Queue‘. *International Journal of Quantum Information*
   11 (02): 1350023. <https://doi.org/10.1142/S0219749913500238>.
