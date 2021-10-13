@@ -34,6 +34,7 @@ Polish).](media/cover.jpg)](https://depot.ceon.pl/bitstream/handle/123456789/168
   Polish).](https://depot.ceon.pl/bitstream/handle/123456789/16807/rewolucjastanu_z_okladka.pdf)
 - [CEON repository entry (in
   Polish).](https://depot.ceon.pl/handle/123456789/16807)
+- [Second edition can be bought from quantumz.io](https://quantumz.io/rewolucja-stanu/)
 
 ### Quantiki — a portal for quantum information community
 
