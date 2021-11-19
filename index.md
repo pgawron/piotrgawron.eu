@@ -1,4 +1,6 @@
-# Piotr Gawron's profile
+# Profile
+
+dr hab. inż. Piotr Gawron
 
 ![Piotr Gawron's portrait](media/gawron.jpg)
 
