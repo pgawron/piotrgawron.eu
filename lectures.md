@@ -7,6 +7,6 @@
 
 ## Invited lectures
 
-- Quantum computation methods for remote sensing, ESA Φ-WEEK 2021 — New Space, 11–15 (14) October 2021, Virtual Event
+- [Quantum computation methods for remote sensing, ESA Φ-WEEK 2021 — New Space, 11–15 (14) October 2021, Virtual Event](https://livestream.com/esa/events/9882717/videos/226592188) (49')
 
 
