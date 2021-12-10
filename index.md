@@ -121,7 +121,7 @@ ul. Rektorska 4,
 8. [Github](https://github.com/pgawron)
 9. [scirate](https://scirate.com/gawron)
 10. [OPI - Nauka Polska](http://nauka-polska.pl/#/profile/scientist?id=55421)
-11. [Polish Scientific Library](https://pbn.nauka.gov.pl/sedno-webapp/persons/1891265/Piotr_Gawron)
+11. [Polish Scientific Library](https://pbn.nauka.gov.pl/core/#/profile/public/5e709375878c28a0473aa483)
 12. [infona](https://www.infona.pl/userprofile/urn:namespace:user:a08186204b8f4468014c13a9ac5703b8)
 13. [Support System for Selection of Reviewers](https://sssr.opi.org.pl/sssr-web/site/people-details?personId=3a79a5283b3a6f77)
 14. [loop](http://loop.frontiersin.org/people/82489/overview)
