@@ -9,7 +9,9 @@
 - Short visit on the invitation of Dr. Michael Mc Gettrick in Mathematics department, School of Mathematics, Statistics and Applied Mathematics; 29–30.04.2015, National University of Ireland, Galway, Ireland. Seminar: "Generalized open quantum walks on Apollonian networks", 29.04.2015.
 - A two week-long visit on the invitation of Dr. Michael Mc Gettrick in department of Mathematics, School of Mathematics, Statistics and Applied Mathematics; 15.05–29.05.2017, National University of Ireland, Galway, Ireland. Seminar: "Quantum Hidden Markov Models based on Transition Operation Matrices", 18.05.2017.
 - A week-long visit on the invitation of Dr. Nicholas Chancellor in Durham Quantum Light and Matter research section of Department of Physics University of Durham; 18-23.03.2019, Durham, United Kingdom. Seminar "Hyper-spectral image segmentation using adiabatic quantum computation", 20.03.2019.
-- Scientific reports delivered on international or national thematic conferences
+
+## Scientific reports delivered on international or national thematic conferences
+
 - Talk: Simulation of quantum computers: state of the art and perspectives given at the Workshop Quantum Coding conference, 07–09.09.2004, Greifswald, Germany.
 - Report: Quantum Implementation of a Parrondo Paradox presented at the NATO Advanced Study Institute — Quantum Computation and Quantum Information conference, 2–13.05.2005, Chania, Greece.
 - Report: Quantum Implementation of a Parrondo Paradox, presented at the International Summer School on Quantum Information, 29.08.2005–30.09.2005, Dresden, Germany.
