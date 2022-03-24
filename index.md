@@ -168,8 +168,11 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 
 ### Leadership of research projetcs
 
-- Semantic tensor networks for large data sets analysis
-  (2014/15/B/ST6/05204, 2015—2019)
+- Spectral information processing with quantum neural networks (ESA
+  Contract No. 4000137375/22/NL/GLC/my, 2022—2023)
+- [Semantic tensor networks for large data sets analysis (National
+  Science Center, OPUS 8, 2014/15/B/ST6/05204,
+  2015—2019)](https://www.iitis.pl/en/project/semantic-tensor-networks-large-data-sets-analysis) 
 - Entanglement effects in quantum games (IP2011014071, 2012—2013)
 - Modelling methods of information systems using quantum queue theory
   (N N516 481840, 2011—2014)
