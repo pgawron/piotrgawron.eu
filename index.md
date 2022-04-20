@@ -4,6 +4,11 @@ dr hab. inż. Piotr Gawron
 
 ![Piotr Gawron's portrait](media/gawron.jpg)
 
+
+## Contact
+
+[Contact me using Matrix!](https://matrix.to/#/@gawron:matrix.org)
+
 ## Research interest
 
 ### Current
