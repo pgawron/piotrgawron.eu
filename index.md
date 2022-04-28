@@ -1,6 +1,13 @@
-# Piotr Gawron's profile
+# Profile
+
+dr hab. inż. Piotr Gawron
 
 ![Piotr Gawron's portrait](media/gawron.jpg)
+
+
+## Contact
+
+[Contact me using Matrix!](https://matrix.to/#/@gawron:matrix.org)
 
 ## Research interest
 
@@ -119,7 +126,7 @@ ul. Rektorska 4,
 8. [Github](https://github.com/pgawron)
 9. [scirate](https://scirate.com/gawron)
 10. [OPI - Nauka Polska](http://nauka-polska.pl/#/profile/scientist?id=55421)
-11. [Polish Scientific Library](https://pbn.nauka.gov.pl/sedno-webapp/persons/1891265/Piotr_Gawron)
+11. [Polish Scientific Library](https://pbn.nauka.gov.pl/core/#/profile/public/5e709375878c28a0473aa483)
 12. [infona](https://www.infona.pl/userprofile/urn:namespace:user:a08186204b8f4468014c13a9ac5703b8)
 13. [Support System for Selection of Reviewers](https://sssr.opi.org.pl/sssr-web/site/people-details?personId=3a79a5283b3a6f77)
 14. [loop](http://loop.frontiersin.org/people/82489/overview)
@@ -166,8 +173,11 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 
 ### Leadership of research projetcs
 
-- Semantic tensor networks for large data sets analysis
-  (2014/15/B/ST6/05204, 2015—2019)
+- Spectral information processing with quantum neural networks (ESA
+  Contract No. 4000137375/22/NL/GLC/my, 2022—2023)
+- [Semantic tensor networks for large data sets analysis (National
+  Science Center, OPUS 8, 2014/15/B/ST6/05204,
+  2015—2019)](https://www.iitis.pl/en/project/semantic-tensor-networks-large-data-sets-analysis) 
 - Entanglement effects in quantum games (IP2011014071, 2012—2013)
 - Modelling methods of information systems using quantum queue theory
   (N N516 481840, 2011—2014)
