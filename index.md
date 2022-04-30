@@ -9,6 +9,8 @@ dr hab. inż. Piotr Gawron
 
 [Contact me using Matrix!](https://matrix.to/#/@gawron:matrix.org)
 
+<a rel="me" href="https://mastodon.social/@gawron">Mastodon</a>
+
 ## Research interest
 
 ### Current
