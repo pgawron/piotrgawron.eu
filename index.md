@@ -65,11 +65,13 @@ Done in co-operation with [Karol Życzkowski](http://chaos.if.uj.edu.pl/~karol/)
 
 ## Contact
 
-e-mail: p.w.gawron(%)gmail%com
+### Personal
 
-work: gawron(%)camk%edu%pl
+e-mail: piotr(%)piotrgawron%eu
 
-AstroCeNT
+### AstroCeNT
+
+e-mail: gawron(%)camk%edu%pl
 
 Particle Astrophysics
 Science And Technology Centre
@@ -77,6 +79,15 @@ International Research Agenda
 
 ul. Rektorska 4,
 00-614, Warsaw, Poland
+
+### Cyfronet
+
+e-mail: piotr.gawron(%)cyfronet%pl
+
+Academic Computer Centre Cyfronet AGH
+
+Nawojki 11 st., P.O. Box 386
+30-950 Kraków 23, Poland
 
 ## Academic achievements
 
@@ -100,7 +111,11 @@ ul. Rektorska 4,
 
 ### Information on employment in research institutions
 
-- [AstroCeNT](https://astrocent.camk.edu.pl)---Particle Astrophysics Science
+- [Cyfronet](https://www.cyfronet.pl/)—Academic Computer Centre Cyfronet AGH,
+  ul. Nawojki 11., P.O. Box 386, 30-950 Kraków 23, Poland
+  - from June 01 2022 main specialist — software developer in Laboratory of Quantum Computing
+
+- [AstroCeNT](https://astrocent.camk.edu.pl)—Particle Astrophysics Science
   and Technology Centre International Research Agenda,  
   [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl) Polish Academy of Sciences,  
   ul. Bartycka 18, 00-716 Warszawa, Poland
