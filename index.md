@@ -111,6 +111,10 @@ Nawojki 11 st., P.O. Box 386
 
 ### Information on employment in research institutions
 
+- [European Space Agency Φ-lab](https://philab.phi.esa.int/),
+  Via Galileo Galilei, 1, 00044 Frascati RM, Italy
+  - from March 15 2022 visiting professor
+
 - [Cyfronet](https://www.cyfronet.pl/)—Academic Computer Centre Cyfronet AGH,
   ul. Nawojki 11., P.O. Box 386, 30-950 Kraków 23, Poland
   - from June 01 2022 main specialist — software developer in Laboratory of Quantum Computing
