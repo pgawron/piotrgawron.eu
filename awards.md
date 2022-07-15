@@ -1,4 +1,4 @@
-# Awards
+## Awards
 
 - 2008 Ph.D. obtained with distinctions
 - 2010 [START Program scholarship for young researchers received from the Foundation of Polish Science](https://www.fnp.org.pl/en/start-beneficiaries-2010/)

@@ -1,4 +1,4 @@
-# Conferences organisation
+## Conferences organisation
 
 - Scientific commitee member at 
 [XXV National Conference on Photointerpretation and Remote Sensing](https://www.xxvokfit.pw.edu.pl/)
