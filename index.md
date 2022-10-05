@@ -313,9 +313,9 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 ### Quantum computation
 
 - Manish K. Gupta, Martin Beseda, and Piotr Gawron. 2022. ‘How quantum computing-friendly multispectral data can be?'
-  In IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium, 3513–16, 2022. (accepted)
+  In IGARSS 2022 — 2022 IEEE International Geoscience and Remote Sensing Symposium, 4153-4156, 2022. <https://doi.org/10.1109/IGARSS46834.2022.9883676>
 - Piotr Gawron, Stanisław Lewiński. 2020. ‘Multi-spectral image classification with
-  quantum neural network’ In IGARSS 2020 - 2020 IEEE International Geoscience
+  quantum neural network’ In IGARSS 2020 — 2020 IEEE International Geoscience
   and Remote Sensing Symposium, 3513–16, 2020. <https://doi.org/10.1109/IGARSS39084.2020.9323065>.
 - Konrad Jałowiecki, Andrzej Więckowski, Piotr Gawron,  
   and Bartłomiej Gardas. 2020. ‘Parallel in time dynamics
