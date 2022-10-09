@@ -4,7 +4,6 @@ dr hab. inż. Piotr Gawron
 
 ![Piotr Gawron's portrait](media/gawron.jpg)
 
-
 ## Contact
 
 - [Contact me using Matrix!](https://matrix.to/#/@gawron:matrix.org)
@@ -50,7 +49,6 @@ Established and maintained jointly with [Jarosław Miszczak](https://www.iitis.p
 and [Daniel Burgarth](https://sites.google.com/view/danielburgarth/daniel-burgarth)
 
 [www.quantiki.org](https://www.quantiki.org/)
-
 
 ### Webpage on numerical shadows
 
