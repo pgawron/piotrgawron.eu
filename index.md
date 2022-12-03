@@ -94,43 +94,43 @@ Nawojki 11 st., P.O. Box 386
 - Doktor habilitowany of technical sciences (DSc equivalent) in the field of
   informatics, granted on October 28th 2014, by the Council of Faculty of
   Automatic Control, Electronics and Computer Science, Silesian University of
-  Technology, on the basis of habilitation dissertation "Influence of the
-  environment on quantum information processes".
+  Technology, on the basis of habilitation dissertation “Influence of the
+  environment on quantum information processes”.
 - Doktor of technical sciences (PhD equivalent) in the field of informatics,
-  granted on December 23th 2008, by the Scientific Council of the Institute of
+  granted on December 23rd 2008, by the Scientific Council of the Institute of
   Theoretical and Applied Informatics, Polish Academy of Sciences, on the basis
-  of a doctoral dissertation "High level programming in quantum computer
-  science".
+  of a doctoral dissertation “High level programming in quantum computer
+  science”.
 - Magister inżynier (MSc equivalent) of informatics, granted on September 24th
-  2003, on the basis of a master thesis "Symulacja komputerów kwantowych" (eng.
-  "Simulation of quantum computers"), by the Silesian University of Technology,
+  2003, on the basis of a master thesis “Symulacja komputerów kwantowych” (eng.
+  “Simulation of quantum computers”), by the Silesian University of Technology,
   Faculty Of Automatic Control, Electronics and Computer Science, majoring in
   informatics, speciality: System Software.
 
 ### Information on employment in research institutions
 
-- [European Space Agency Φ-lab](https://philab.phi.esa.int/)@[ESRIN](https://www.esa.int/About_Us/ESRIN),
+- [European Space Agency Φ-lab](https://philab.esa.int/)@[ESRIN](https://www.esa.int/About_Us/ESRIN),
   Via Galileo Galilei, 1, 00044 Frascati RM, Italy
-  - from March 15 2022 visiting professor
+  - from 15 March 2022 — visiting professor
 
 - [Cyfronet](https://www.cyfronet.pl/)—Academic Computer Centre Cyfronet AGH,
   ul. Nawojki 11., P.O. Box 386, 30-950 Kraków 23, Poland
-  - from June 01 2022 main specialist — software developer in Laboratory of Quantum Computing
+  - from 01 June 2022 — main specialist — software developer in Laboratory of Quantum Computing
 
 - [AstroCeNT](https://astrocent.camk.edu.pl)—Particle Astrophysics Science
   and Technology Centre International Research Agenda,  
   [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl) Polish Academy of Sciences,  
   ul. Bartycka 18, 00-716 Warszawa, Poland
-  - from November 01 2019 institute professor (pol. *profesor instytutu*), Scientific Computing and Information Technology Group Leader
+  - from 01 November 2019 — institute professor (pol. *profesor instytutu*), Scientific Computing and Information Technology Group Leader
 
 - [Institute of Theoretical and Applied Informatics](https://www.iitis.pl),  
   Polish Academy of Sciences  
   ul. Bałtycka 5, 44-100 Gliwice, Poland
-  - October 01 2018 - October 31 2019 institute professor (pol. *profesor instytutu*)
-  - from November 01 2014 - associate professor (pol. *profesor nadzwyczajny*)
-  - from January 01 2009 - adjunct (pol. *adiunkt*)
-  - from October 01 2003 - research assistant (pol. *asystent*)
-  - from October 15 2001 - technician programmer (pol. *technik programista*)
+  - 01 October 2018–31 October 2019 institute professor (pol. *profesor instytutu*)
+  - from 01 November 2014 — associate professor (pol. *profesor nadzwyczajny*)
+  - from 01 January 2009 — adjunct (pol. *adiunkt*)
+  - from 01 October 2003 — research assistant (pol. *asystent*)
+  - from 15 October 2001 — technician programmer (pol. *technik programista*)
 
 ### My profiles on various web-services
 
@@ -151,11 +151,11 @@ Nawojki 11 st., P.O. Box 386
 
 ### PhD theses supervised
 
-1. [Łukasz Pawela](http://iitis.pl/en/person/lpawela) "Open system in quantum
-   informatics" (PhD received in 2017 from Institute of Theoretical and Applied
+1. [Łukasz Pawela](http://iitis.pl/en/person/lpawela) “Open system in quantum
+   informatics” (PhD received in 2017 from Institute of Theoretical and Applied
    Informatics, Polish Academy of Sciences)
-2. [Michał Romaszewski](http://iitis.pl/en/person/mromaszewski) "New methods
-   for hyperspectral image classification" (PhD received in 2019 from Institute
+2. [Michał Romaszewski](http://iitis.pl/en/person/mromaszewski) “New methods
+   for hyperspectral image classification” (PhD received in 2019 from Institute
    of Theoretical and Applied Informatics, Polish Academy of Sciences)
 
 ### Erdös Number
@@ -168,7 +168,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 - [Benoît Collins](https://www.math.kyoto-u.ac.jp/~collins/),
 - [Krzysztof Domino](https://www.iitis.pl/en/person/kdomino),
 - [Charles F. Dunkl](http://people.virginia.edu/~cfd5z/),
-- [Bartłomiej Gardas](https://sites.google.com/site/bartekgardas/home),
+- [Bartłomiej Gardas](https://orcid.org/0000-0002-1454-1591),
 - [Przemysław Głomb](https://iitis.pl/en/person/pglomb),
 - John A. Holbrook,
 - Konrad Jałowiecki,
@@ -189,7 +189,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 
 ## Research projects
 
-### Leadership of research projetcs
+### Leadership of research projects
 
 - Spectral information processing with quantum neural networks (ESA
   Contract No. 4000137375/22/NL/GLC/my, 2022—2023)
@@ -209,7 +209,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
 
 ### Participation in research projects
 
-- Methods of development, modelling and analysis of quantum
+- Methods of development, modelling, and analysis of quantum
   internetworking protocols (2011/03/D/ST6/00413, 2012—2017)
 - Application of quantum game theory in modelling of quantum
   information transmission (N N516 475440, 2011—2013)
