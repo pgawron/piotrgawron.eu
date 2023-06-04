@@ -1,4 +1,4 @@
-## Research projects details    
+## Research projects details
 
 ### Spectral information processing with quantum neural networks
 
