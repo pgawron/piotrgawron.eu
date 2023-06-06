@@ -1,4 +1,4 @@
-# Profile
+## Profile
 
 dr hab. inż. Piotr Gawron
 
