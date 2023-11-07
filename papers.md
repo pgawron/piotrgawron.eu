@@ -84,10 +84,20 @@
 
 ### Quantum computation
 
-- Manish K. Gupta, Martin Beseda, and Piotr Gawron. 2022. ‘How quantum computing-friendly multispectral data can be?'
-  In IGARSS 2022 — 2022 IEEE International Geoscience and Remote Sensing Symposium, 4153-4156, 2022. <https://doi.org/10.1109/IGARSS46834.2022.9883676>
-- Piotr Gawron, Stanisław Lewiński. 2020. ‘Multi-spectral image classification with
-  quantum neural network’ In IGARSS 2020 — 2020 IEEE International Geoscience
+- Véronique Defonte, Matthijs van Waveren, Guillaume Pasero, Mickaël
+  Savinaud, Piotr Gawron, Pierre-Marie Brunet, Orphée Faucoz. 2023.
+  `Quantum contrastive learning for semantic segmentation of remote
+  sensing images' In Proceedings of the 2023 Conference on Big Data from
+  Space (BiDS’23): From Foresight to Impact : 6–9 November 2023,
+  Austrian Center, Vienna. European Commission. Joint Research Centre.
+  LU: Publications Office. 2023.
+  <https://data.europa.eu/doi/10.2760/46796>
+- Manish K. Gupta, Martin Beseda, and Piotr Gawron. 2022. ‘How quantum
+  computing-friendly multispectral data can be?' In IGARSS 2022 — 2022
+  IEEE International Geoscience and Remote Sensing Symposium, 4153-4156, 
+  <https://doi.org/10.1109/IGARSS46834.2022.9883676>
+- Piotr Gawron, Stanisław Lewiński. 2020. ‘Multi-spectral image classification   
+  with quantum neural network’ In IGARSS 2020 — 2020 IEEE International Geoscience
   and Remote Sensing Symposium, 3513–16, 2020. <https://doi.org/10.1109/IGARSS39084.2020.9323065>.
 - Konrad Jałowiecki, Andrzej Więckowski, Piotr Gawron,  
   and Bartłomiej Gardas. 2020. ‘Parallel in time dynamics
