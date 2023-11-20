@@ -84,21 +84,6 @@
 
 ### Quantum computation
 
-- Bartłomiej Gardas, Przemysław Głomb, Przemysław Sadowski, Zbigniew
-  Puchała, Konrad Jałowiecki, Łukasz Pawela, Orphee Faucoz, Pierre-Marie
-  Brunet, Piotr Gawron, Matthijs Van Waveren, Mickaël Savinaud,
-  Guillaume Pasero and Veronique Defonte. 2023. `Hyper-Spectral Image
-  Classification Using Adiabatic Quantum Computation.’ In IGARSS 2023 -
-  2023 IEEE International Geoscience and Remote Sensing Symposium,
-  620–23. Pasadena, CA, USA: IEEE.
-  <https://doi.org/10.1109/IGARSS52108.2023.10282125>.
-- Matthijs Van Waveren, Mickaël Savinaud, Guillaume Pasero, Veronique
-  Defonte, Pierre-Marie Brunet, Orphee Faucoz, Piotr Gawron, Bartłomiej
-  Gardas, Zbigniew Puchała, and Łukasz Pawela. 2023. `Comparison of
-  Quantum Neural Network Algorithms For Earth Observation Data
-  Classification.’ In IGARSS 2023 - 2023 IEEE International Geoscience
-  and Remote Sensing Symposium, 780–83. Pasadena, CA, USA: IEEE.
-  <https://doi.org/10.1109/IGARSS52108.2023.10281429>.
 #### Conference proceedings
 
 - Bartłomiej Gardas, Przemysław Głomb, Przemysław Sadowski, Zbigniew
