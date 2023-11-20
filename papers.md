@@ -17,7 +17,7 @@
   Numerical Shadow and Geometry of Quantum Entanglement’. *Journal of
   Physics A: Mathematical and Theoretical* 45 (41): 415309.
   <https://doi.org/10.1088/1751-8113/45/41/415309>.
-- Zbigniew Puchala, Piotr Gawron, Jarosław Adam Miszczak, Łukasz
+- Zbigniew Puchała, Piotr Gawron, Jarosław Adam Miszczak, Łukasz
   Skowronek, Man-Duen Choi, and Karol Życzkowski. 2011. ‘Product
   Numerical Range in a Space with Tensor Product Structure’. *Linear
   Algebra and Its Applications* 434 (1): 327–42.
@@ -84,6 +84,23 @@
 
 ### Quantum computation
 
+#### Conference proceedings
+
+- Bartłomiej Gardas, Przemysław Głomb, Przemysław Sadowski, Zbigniew
+  Puchała, Konrad Jałowiecki, Łukasz Pawela, Orphee Faucoz, Pierre-Marie
+  Brunet, Piotr Gawron, Matthijs Van Waveren, Mickaël Savinaud,
+  Guillaume Pasero and Veronique Defonte. 2023. `Hyper-Spectral Image
+  Classification Using Adiabatic Quantum Computation.’ In IGARSS 2023 -
+  2023 IEEE International Geoscience and Remote Sensing Symposium,
+  620–23. Pasadena, CA, USA: IEEE.
+  <https://doi.org/10.1109/IGARSS52108.2023.10282125>.
+- Matthijs Van Waveren, Mickaël Savinaud, Guillaume Pasero, Veronique
+  Defonte, Pierre-Marie Brunet, Orphee Faucoz, Piotr Gawron, Bartłomiej
+  Gardas, Zbigniew Puchała, and Łukasz Pawela. 2023. `Comparison of
+  Quantum Neural Network Algorithms For Earth Observation Data
+  Classification.’ In IGARSS 2023 - 2023 IEEE International Geoscience
+  and Remote Sensing Symposium, 780–83. Pasadena, CA, USA: IEEE.
+  <https://doi.org/10.1109/IGARSS52108.2023.10281429>.
 - Véronique Defonte, Matthijs van Waveren, Guillaume Pasero, Mickaël
   Savinaud, Piotr Gawron, Pierre-Marie Brunet, Orphée Faucoz. 2023.
   `Quantum contrastive learning for semantic segmentation of remote
@@ -94,16 +111,19 @@
   <https://data.europa.eu/doi/10.2760/46796>
 - Manish K. Gupta, Martin Beseda, and Piotr Gawron. 2022. ‘How quantum
   computing-friendly multispectral data can be?' In IGARSS 2022 — 2022
-  IEEE International Geoscience and Remote Sensing Symposium, 4153-4156, 
+  IEEE International Geoscience and Remote Sensing Symposium, 4153-4156,
   <https://doi.org/10.1109/IGARSS46834.2022.9883676>
-- Piotr Gawron, Stanisław Lewiński. 2020. ‘Multi-spectral image classification   
+- Piotr Gawron, Stanisław Lewiński. 2020. ‘Multi-spectral image classification
   with quantum neural network’ In IGARSS 2020 — 2020 IEEE International Geoscience
   and Remote Sensing Symposium, 3513–16, 2020. <https://doi.org/10.1109/IGARSS39084.2020.9323065>.
+
+#### Journal Papers
+
 - Konrad Jałowiecki, Andrzej Więckowski, Piotr Gawron,  
   and Bartłomiej Gardas. 2020. ‘Parallel in time dynamics
   with quantum annealers‘. *Scientific Reports Scientific Reports* 10(1): 1-7.
   <https://doi.org/10.1038/s41598-020-70017-x>.
-- Łukasz Pawela, Piotr Gawron, Jarosław Adam Miszczak, Przemysław Sadowski. 2015. 
+- Łukasz Pawela, Piotr Gawron, Jarosław Adam Miszczak, Przemysław Sadowski. 2015.
   ‘Generalized Open Quantum Walks on Apollonian Networks’. *PLoS ONE* 10(7): e0130967.
   <https://doi.org/10.1371/journal.pone.0130967>.
 - Piotr Gawron, Dariusz Kurzyk, and Zbigniew Puchała. 2013. ‘A Model
@@ -151,10 +171,10 @@
   limited dataset of bark images using convolutional neural networks’. 2019
   PP-RAI’2019 Conference Proceedings <> -->
 
-## Submitted
+<!-- ## Submitted
 
 ### Quantum computing
 
 - Manish K. Gupta, Michał Romaszewski, Piotr Gawron. 2022, ‘Potential of Quantum
 Machine Learning for Processing Multispectral Earth Observation Data’.
-Submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.
+Submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*. -->
