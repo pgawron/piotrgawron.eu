@@ -14,16 +14,6 @@ dr hab. inż. Piotr Gawron
   Via Galileo Galilei, 1, 00044 Frascati RM, Italy
   - from 15 March 2022 — visiting professor
 
-- [Cyfronet](https://www.cyfronet.pl/)—Academic Computer Centre Cyfronet AGH,
-  ul. Nawojki 11., P.O. Box 386, 30-950 Kraków 23, Poland
-  - from 01 June 2022 — main specialist — software developer in Laboratory of Quantum Computing
-
-- [AstroCeNT](https://astrocent.camk.edu.pl)—Particle Astrophysics Science
-  and Technology Centre International Research Agenda,  
-  [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl) Polish Academy of Sciences,  
-  ul. Bartycka 18, 00-716 Warszawa, Poland
-  - from 01 November 2019 — institute professor (pol. *profesor instytutu*), Scientific Computing and Information Technology Group Leader
-
 ## Education and training
 
 ### Received professional titles and academic degrees
@@ -56,10 +46,22 @@ dr hab. inż. Piotr Gawron
 
 ### Past employment
 
+- [AstroCeNT](https://astrocent.camk.edu.pl)—Particle Astrophysics Science
+  and Technology Centre International Research Agenda,  
+  [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl) Polish Academy of Sciences,  
+  ul. Bartycka 18, 00-716 Warszawa, Poland
+
+  - 01 November 2019 – 31 December 2023 — institute professor (pol. *profesor instytutu*), Scientific Computing and Information Technology Group Leader
+
+- [Cyfronet](https://www.cyfronet.pl/)—Academic Computer Centre Cyfronet AGH,
+  ul. Nawojki 11., P.O. Box 386, 30-950 Kraków 23, Poland
+
+  - 01 June 2022 – 31 October 2023 — main specialist — software developer in Laboratory of Quantum Computing
+
 - [Institute of Theoretical and Applied Informatics](https://www.iitis.pl),  
   Polish Academy of Sciences  
   ul. Bałtycka 5, 44-100 Gliwice, Poland
-  - 01 October 2018–31 October 2019 institute professor (pol. *profesor instytutu*)
+  - 01 October 2018–31 – October 2019 — institute professor (pol. *profesor instytutu*)
   - from 01 November 2014 — associate professor (pol. *profesor nadzwyczajny*)
   - from 01 January 2009 — adjunct (pol. *adiunkt*)
   - from 01 October 2003 — research assistant (pol. *asystent*)
@@ -76,28 +78,6 @@ dr hab. inż. Piotr Gawron
 - Modelling methods of information systems using quantum queue theory
   (N N516 481840, 2011—2014)
 - Quantum games in open quantum systems (IP2010 009770, 2011—2012)
-
-## Articles relevant to the project
-
-- Manish K. Gupta, Martin Beseda, and Piotr Gawron. 2022. ‘How quantum computing-friendly multispectral data can be?'
-  In IGARSS 2022 — 2022 IEEE International Geoscience and Remote Sensing Symposium, 4153-4156, 2022. <https://doi.org/10.1109/IGARSS46834.2022.9883676>
-- Piotr Gawron, Stanisław Lewiński. 2020. ‘Multi-spectral image classification with
-  quantum neural network’ In IGARSS 2020 — 2020 IEEE International Geoscience
-  and Remote Sensing Symposium, 3513–16, 2020. <https://doi.org/10.1109/IGARSS39084.2020.9323065>.
-- Konrad Jałowiecki, Andrzej Więckowski, Piotr Gawron,  
-  and Bartłomiej Gardas. 2020. ‘Parallel in time dynamics
-  with quantum annealers‘. *Scientific Reports Scientific Reports* 10(1): 1-7.
-  <https://doi.org/10.1038/s41598-020-70017-x>.
-- Piotr Gawron, Dariusz Kurzyk, and Łukasz Pawela. 2018.
-  ‘QuantumInformation.Jl—A Julia Package for Numerical Computation in
-  Quantum Information Theory’. *PLoS ONE* 13 (12): e0209358.
-  <https://doi.org/10.1371/journal.pone.0209358>. [In PLoS Open
-  Quantum Computation and Simulation
-  collection](https://collections.plos.org/open-quantum)
-- Michał Cholewa, Piotr Gawron, Przemysław Głomb, and Dariusz
-  Kurzyk. 2017. ‘Quantum Hidden Markov Models Based on Transition
-  Operation Matrices’. *Quantum Information Processing* 16 (4).
-  <https://doi.org/10.1007/s11128-017-1544-8>.
 
 ## H-index
 
