@@ -67,7 +67,7 @@ Done in co-operation with [Karol Życzkowski](http://chaos.if.uj.edu.pl/~karol/)
 
 e-mail: piotr(%)piotrgawron%eu
 
-### AstroCeNT
+<!-- ### AstroCeNT
 
 e-mail: gawron(%)camk%edu%pl
 
@@ -85,7 +85,7 @@ e-mail: piotr.gawron(%)cyfronet%pl
 Academic Computer Centre Cyfronet AGH
 
 Nawojki 11 st., P.O. Box 386
-30-950 Kraków 23, Poland
+30-950 Kraków 23, Poland -->
 
 ## Academic achievements
 
@@ -109,24 +109,32 @@ Nawojki 11 st., P.O. Box 386
 
 ### Information on employment in research institutions
 
+#### Current
+
 - [European Space Agency Φ-lab](https://philab.esa.int/)@[ESRIN](https://www.esa.int/About_Us/ESRIN),
   Via Galileo Galilei, 1, 00044 Frascati RM, Italy
+
   - from 15 March 2022 — visiting professor
 
-- [Cyfronet](https://www.cyfronet.pl/)—Academic Computer Centre Cyfronet AGH,
-  ul. Nawojki 11., P.O. Box 386, 30-950 Kraków 23, Poland
-  - from 01 June 2022 — main specialist — software developer in Laboratory of Quantum Computing
+#### Past
 
 - [AstroCeNT](https://astrocent.camk.edu.pl)—Particle Astrophysics Science
   and Technology Centre International Research Agenda,  
   [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl) Polish Academy of Sciences,  
   ul. Bartycka 18, 00-716 Warszawa, Poland
-  - from 01 November 2019 — institute professor (pol. *profesor instytutu*), Scientific Computing and Information Technology Group Leader
+
+  - 01 November 2019 – 31 December 2023 — institute professor (pol. *profesor instytutu*), Scientific Computing and Information Technology Group Leader
+
+- [Cyfronet](https://www.cyfronet.pl/)—Academic Computer Centre Cyfronet AGH,
+  ul. Nawojki 11., P.O. Box 386, 30-950 Kraków 23, Poland
+
+  - 01 June 2022 – 31 October 2023 — main specialist — software developer in Laboratory of Quantum Computing
 
 - [Institute of Theoretical and Applied Informatics](https://www.iitis.pl),  
   Polish Academy of Sciences  
   ul. Bałtycka 5, 44-100 Gliwice, Poland
-  - 01 October 2018–31 October 2019 institute professor (pol. *profesor instytutu*)
+
+  - 01 October 2018–31 – October 2019 — institute professor (pol. *profesor instytutu*)
   - from 01 November 2014 — associate professor (pol. *profesor nadzwyczajny*)
   - from 01 January 2009 — adjunct (pol. *adiunkt*)
   - from 01 October 2003 — research assistant (pol. *asystent*)
@@ -195,7 +203,7 @@ Trough Man Duen Choi and then Bruce Reznick my Erdös Number is 3.
   Contract No. 4000137375/22/NL/GLC/my, 2022—2023)
 - [Semantic tensor networks for large data sets analysis (National
   Science Center, OPUS 8, 2014/15/B/ST6/05204,
-  2015—2019)](https://www.iitis.pl/en/project/semantic-tensor-networks-large-data-sets-analysis) 
+  2015—2019)](https://www.iitis.pl/en/project/semantic-tensor-networks-large-data-sets-analysis)
 - Entanglement effects in quantum games (IP2011014071, 2012—2013)
 - Modelling methods of information systems using quantum queue theory
   (N N516 481840, 2011—2014)

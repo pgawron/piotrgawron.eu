@@ -82,7 +82,7 @@ dr hab. inż. Piotr Gawron
 ## H-index
 
 - According to Web of Science: 12
-- According to Google Scholar: 15
+- According to Google Scholar: 16
 
 ## Professional profiles
 
