@@ -111,19 +111,29 @@ Nawojki 11 st., P.O. Box 386
 
 #### Current
 
-- [European Space Agency Φ-lab](https://philab.esa.int/)@[ESRIN](https://www.esa.int/About_Us/ESRIN),
+- [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl) Polish
+  Academy of Sciences, ul. Bartycka 18, 00-716 Warszawa, Poland
+
+  - from: 01 January 2024 — institute professor (pol. *profesor
+    instytutu*) (part-time)
+
+  - 01 November 2019 – 31 December 2023 — institute professor (pol.
+    *profesor instytutu*), Scientific Computing and Information
+    Technology Group Leader @
+    [AstroCeNT](https://astrocent.camk.edu.pl)—Particle Astrophysics
+    Science and Technology Centre International Research Agenda.
+
+- [AGH University of Kraków](https://agh.edu.pl)
+  al. Mickiewicza 30, 30-059 Kraków, Poland
+
+  - from: 01 January 2024 — research specialist @ [Center of Excellence in Artificial Intelligence](https://ceai.agh.edu.pl/) (part-time)
+
+- [European Space Agency](https://esa.int)
   Via Galileo Galilei, 1, 00044 Frascati RM, Italy
 
-  - from 15 March 2022 — visiting professor
+  - from 15 March 2022 — visiting professor in [Φ-lab](https://philab.esa.int/)@[ESRIN](https://www.esa.int/About_Us/ESRIN)
 
 #### Past
-
-- [AstroCeNT](https://astrocent.camk.edu.pl)—Particle Astrophysics Science
-  and Technology Centre International Research Agenda,  
-  [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl) Polish Academy of Sciences,  
-  ul. Bartycka 18, 00-716 Warszawa, Poland
-
-  - 01 November 2019 – 31 December 2023 — institute professor (pol. *profesor instytutu*), Scientific Computing and Information Technology Group Leader
 
 - [Cyfronet](https://www.cyfronet.pl/)—Academic Computer Centre Cyfronet AGH,
   ul. Nawojki 11., P.O. Box 386, 30-950 Kraków 23, Poland
