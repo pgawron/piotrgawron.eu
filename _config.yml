@@ -1,2 +1,3 @@
 theme: minima
 include: [".well-known"]
+exclude: store/*
