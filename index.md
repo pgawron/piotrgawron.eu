@@ -126,7 +126,11 @@ Nawojki 11 st., P.O. Box 386
 - [AGH University of Kraków](https://agh.edu.pl)
   al. Mickiewicza 30, 30-059 Kraków, Poland
 
-  - from: 01 January 2024 — research specialist @ [Center of Excellence in Artificial Intelligence](https://ceai.agh.edu.pl/) (part-time)
+  - from: 01 March 2024 — university professor @ [Center of Excellence in
+    Artificial Intelligence](https://ceai.agh.edu.pl/) (part-time)
+
+  - 01 January 2024 – 29 February 2024 — research specialist @ [Center of Excellence in
+    Artificial Intelligence](https://ceai.agh.edu.pl/) (part-time)
 
 - [European Space Agency](https://esa.int)
   Via Galileo Galilei, 1, 00044 Frascati RM, Italy
