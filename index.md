@@ -35,12 +35,10 @@ Written together with Katarzyna Kara (illustrations) and [Michał
 Cholewa](https://pl.wikipedia.org/wiki/Micha%C5%82_Cholewa) (scenario)
 
 [![Rewolucja Stanu comic book cover (in
-Polish).](media/cover.jpg)](https://depot.ceon.pl/bitstream/handle/123456789/16807/rewolucjastanu_z_okladka.pdf)
+Polish).](media/cover.jpg)](https://depot.ceon.pl/handle/123456789/16807)
 
 - [Web version of the comic book (PDF web version in
-  Polish).](https://depot.ceon.pl/bitstream/handle/123456789/16807/rewolucjastanu_z_okladka.pdf)
-- [CEON repository entry (in
-  Polish).](https://depot.ceon.pl/handle/123456789/16807)
+  Polish).](https://open.icm.edu.pl/handle/123456789/16807)
 - [Second edition can be bought from quantumz.io](https://quantumz.io/rewolucja-stanu/)
 
 ### Quantiki — a portal for quantum information community
